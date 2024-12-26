@@ -36,7 +36,7 @@ Here are some of the projects I've been working on:
 
 ## GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeva-2311&show_icons=true&theme=radical&hide=contribs,issues&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeva-2311&show_icons=true&theme=radicale&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me
 
