@@ -27,3 +27,60 @@ I like working on tech stuff that creates an impact.
 <br>
 <br>
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeva-2311&show_icons=true&theme=radicale&hide=stars,prs,&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Jeeva's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=jeeva-2311&theme=github)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Skill Icons</title>
+    <style>
+        .skill-icons {
+            display: flex;
+            gap: 20px;
+        }
+        .skill-icon {
+            width: 50px;
+            height: 50px;
+            transition: transform 0.3s ease;
+        }
+        .skill-icon:hover {
+            transform: scale(1.2); /* Enlarges the icon */
+        }
+    </style>
+</head>
+<body>
+    <div class="skill-icons">
+        <img class="skill-icon" src="https://skillicons.dev/icons?i=ts" alt="TypeScript">
+        <img class="skill-icon" src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+        <img class="skill-icon" src="https://skillicons.dev/icons?i=react" alt="React">
+        <img class="skill-icon" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
+        <img class="skill-icon" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB">
+    </div>
+</body>
+</html>
+
+<a href="mailto:gowthamangowda7@gmail.com" target="_blank">
+  <img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/gowtham2k2" target="_blank">
+  <img alt="" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/jeeva-2311" target="_blank">
+  <img alt="" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+body {
+    background-color: #f0f8ff; /* Light Blue */
+    color: #333333; /* Dark Text */
+}
+
+h1 {
+    color: #f98639; /* Orange color */
+}
+
+
+
