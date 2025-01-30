@@ -29,3 +29,11 @@ I like working on tech stuff that creates an impact.
 <br>
 <br>
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeva-2311&show_icons=true&theme=radicale&hide=stars,prs,&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-readme-stats.vercel.app/api?username=jeeva-2311&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jeeva-2311&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeeva-2311&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jeeva-2311&icon=0&color=0)](https://visitcount.itsvg.in)
+
