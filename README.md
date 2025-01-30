@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> there,  I'm Jeeva </h1> 
+[![](https://visitcount.itsvg.in/api?id=jeeva-2311&icon=0&color=0)](https://visitcount.itsvg.in)
 <div align="center">
 <a href="mailto:jeeva.r.2311@gmail.com" target="_blank">
     <img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" />
@@ -25,15 +26,8 @@ I like working on tech stuff that creates an impact.
 - ⚡ Fun fact: I love experimenting with new programming languages and frameworks.
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeeva-2311&layout=compact&theme=dark&text_bold=true&card_width=500)
-<br>
-<br>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeva-2311&show_icons=true&theme=radicale&hide=stars,prs,&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=jeeva-2311&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jeeva-2311&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeeva-2311&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=jeeva-2311&icon=0&color=0)](https://visitcount.itsvg.in)
 
