@@ -27,4 +27,4 @@ I like working on tech stuff that creates an impact.
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=jeeva-2311&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeeva-2311&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&width=500)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeeva-2311&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=donut&width=500&langs_count=8)
