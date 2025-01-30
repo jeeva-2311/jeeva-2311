@@ -25,6 +25,6 @@ I like working on tech stuff that creates an impact.
 - ⚡ Fun fact: I love experimenting with new programming languages and frameworks.
 [![](https://visitcount.itsvg.in/api?id=jeeva-2311&icon=0&color=0)](https://visitcount.itsvg.in)
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeeva-2311&theme=radical&hide=stars,prs,&hide_rank=true&hide_border=false&include_all_commits=true&count_private=true&layout=compact&width=500&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeeva-2311&theme=radicalhide_border=false&include_all_commits=true&count_private=true&layout=compact&width=500&langs_count=8)
 <br/>
-![](https://github-readme-stats.vercel.app/api?username=jeeva-2311&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=jeeva-2311&theme=radical&&hide=stars,prs,&hide_rank=true&hide_border=false&include_all_commits=true&count_private=true)
